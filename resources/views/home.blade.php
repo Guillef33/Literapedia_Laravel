@@ -15,7 +15,7 @@
                             <a class="nav-link active" aria-current="page" data-toggle="tab" href="#feed-tab">Feed</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#profile-tab">Mi Perfil</a> <!-- ruta absoluta -->
+                            <a class="nav-link" data-toggle="tab" href="#profile-tab">Mi Profile</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" data-toggle="tab" href="#favorites-tab">Favoritos</a>
